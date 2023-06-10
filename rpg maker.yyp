@@ -73,6 +73,7 @@
     {"id":{"name":"sys_camera","path":"objects/sys_camera/sys_camera.yy",},},
     {"id":{"name":"obj_phone","path":"objects/obj_phone/obj_phone.yy",},},
     {"id":{"name":"ball_3d","path":"sprites/ball_3d/ball_3d.yy",},},
+    {"id":{"name":"epicpath","path":"paths/epicpath/epicpath.yy",},},
     {"id":{"name":"Sprite21","path":"sprites/Sprite21/Sprite21.yy",},},
     {"id":{"name":"Sprite24","path":"sprites/Sprite24/Sprite24.yy",},},
     {"id":{"name":"spr_char_facingright","path":"sprites/spr_char_facingright/spr_char_facingright.yy",},},
