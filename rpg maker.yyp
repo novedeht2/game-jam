@@ -51,6 +51,7 @@
     {"id":{"name":"snd_text","path":"sounds/snd_text/snd_text.yy",},},
     {"id":{"name":"obj_keeper","path":"objects/obj_keeper/obj_keeper.yy",},},
     {"id":{"name":"obj_jdsjfysdgo","path":"objects/obj_jdsjfysdgo/obj_jdsjfysdgo.yy",},},
+    {"id":{"name":"musicobject","path":"objects/musicobject/musicobject.yy",},},
     {"id":{"name":"spr_char_facingleft","path":"sprites/spr_char_facingleft/spr_char_facingleft.yy",},},
     {"id":{"name":"Sprite22","path":"sprites/Sprite22/Sprite22.yy",},},
     {"id":{"name":"playerobject","path":"objects/playerobject/playerobject.yy",},},
