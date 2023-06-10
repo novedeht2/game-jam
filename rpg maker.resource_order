@@ -35,6 +35,7 @@
     {"name":"obj_phone","order":18,"path":"objects/obj_phone/obj_phone.yy",},
     {"name":"ball_3d","order":23,"path":"sprites/ball_3d/ball_3d.yy",},
     {"name":"Sprite21","order":20,"path":"sprites/Sprite21/Sprite21.yy",},
+    {"name":"testsprite","order":16,"path":"sprites/testsprite/testsprite.yy",},
     {"name":"Sprite24","order":15,"path":"sprites/Sprite24/Sprite24.yy",},
     {"name":"spr_char_facingright","order":1,"path":"sprites/spr_char_facingright/spr_char_facingright.yy",},
     {"name":"sys_text","order":4,"path":"objects/sys_text/sys_text.yy",},
