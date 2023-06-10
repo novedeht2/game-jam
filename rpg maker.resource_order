@@ -12,6 +12,7 @@
     {"name":"obj_wall","order":3,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"sys_main_variables","order":1,"path":"objects/sys_main_variables/sys_main_variables.yy",},
     {"name":"spr_char_facingup","order":2,"path":"sprites/spr_char_facingup/spr_char_facingup.yy",},
+    {"name":"testscript","order":2,"path":"scripts/testscript/testscript.yy",},
     {"name":"spr_wall","order":7,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"snd_text","order":2,"path":"sounds/snd_text/snd_text.yy",},
     {"name":"obj_keeper","order":15,"path":"objects/obj_keeper/obj_keeper.yy",},

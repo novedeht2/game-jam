@@ -46,6 +46,7 @@
     {"id":{"name":"OK","path":"notes/OK/OK.yy",},},
     {"id":{"name":"sys_main_variables","path":"objects/sys_main_variables/sys_main_variables.yy",},},
     {"id":{"name":"spr_char_facingup","path":"sprites/spr_char_facingup/spr_char_facingup.yy",},},
+    {"id":{"name":"testscript","path":"scripts/testscript/testscript.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"snd_text","path":"sounds/snd_text/snd_text.yy",},},
     {"id":{"name":"obj_keeper","path":"objects/obj_keeper/obj_keeper.yy",},},
