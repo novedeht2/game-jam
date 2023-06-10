@@ -37,7 +37,6 @@
     {"name":"sys_camera","order":11,"path":"objects/sys_camera/sys_camera.yy",},
     {"name":"obj_phone","order":18,"path":"objects/obj_phone/obj_phone.yy",},
     {"name":"ball_3d","order":23,"path":"sprites/ball_3d/ball_3d.yy",},
-    {"name":"supremepath","order":1,"path":"paths/supremepath/supremepath.yy",},
     {"name":"Sprite21","order":20,"path":"sprites/Sprite21/Sprite21.yy",},
     {"name":"Sprite24","order":15,"path":"sprites/Sprite24/Sprite24.yy",},
     {"name":"spr_char_facingright","order":1,"path":"sprites/spr_char_facingright/spr_char_facingright.yy",},
