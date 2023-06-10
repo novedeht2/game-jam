@@ -1,5 +1,7 @@
 {
-  "FolderOrderSettings": [],
+  "FolderOrderSettings": [
+    {"name":"try","order":16,"path":"folders/try.yy",},
+  ],
   "ResourceOrderSettings": [
     {"name":"scr_wave","order":1,"path":"scripts/scr_wave/scr_wave.yy",},
     {"name":"spr_djfsifdsfs","order":14,"path":"sprites/spr_djfsifdsfs/spr_djfsifdsfs.yy",},
