@@ -53,6 +53,7 @@
     {"id":{"name":"obj_jdsjfysdgo","path":"objects/obj_jdsjfysdgo/obj_jdsjfysdgo.yy",},},
     {"id":{"name":"spr_char_facingleft","path":"sprites/spr_char_facingleft/spr_char_facingleft.yy",},},
     {"id":{"name":"Sprite22","path":"sprites/Sprite22/Sprite22.yy",},},
+    {"id":{"name":"playerobject","path":"objects/playerobject/playerobject.yy",},},
     {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},},
     {"id":{"name":"sys_music","path":"objects/sys_music/sys_music.yy",},},
     {"id":{"name":"shimmers","path":"sounds/shimmers/shimmers.yy",},},
