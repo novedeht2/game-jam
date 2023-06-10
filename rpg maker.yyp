@@ -71,6 +71,7 @@
     {"id":{"name":"snd_imissyou","path":"sounds/snd_imissyou/snd_imissyou.yy",},},
     {"id":{"name":"sys_camera","path":"objects/sys_camera/sys_camera.yy",},},
     {"id":{"name":"obj_phone","path":"objects/obj_phone/obj_phone.yy",},},
+    {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},},
     {"id":{"name":"ball_3d","path":"sprites/ball_3d/ball_3d.yy",},},
     {"id":{"name":"Sprite21","path":"sprites/Sprite21/Sprite21.yy",},},
     {"id":{"name":"Sprite24","path":"sprites/Sprite24/Sprite24.yy",},},

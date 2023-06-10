@@ -35,6 +35,7 @@
     {"name":"snd_imissyou","order":1,"path":"sounds/snd_imissyou/snd_imissyou.yy",},
     {"name":"sys_camera","order":11,"path":"objects/sys_camera/sys_camera.yy",},
     {"name":"obj_phone","order":18,"path":"objects/obj_phone/obj_phone.yy",},
+    {"name":"Path1","order":17,"path":"paths/Path1/Path1.yy",},
     {"name":"ball_3d","order":23,"path":"sprites/ball_3d/ball_3d.yy",},
     {"name":"Sprite21","order":20,"path":"sprites/Sprite21/Sprite21.yy",},
     {"name":"Sprite24","order":15,"path":"sprites/Sprite24/Sprite24.yy",},
