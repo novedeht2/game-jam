@@ -1,7 +1,7 @@
 {
   "resourceType": "GMPath",
   "resourceVersion": "1.0",
-  "name": "epicpath",
+  "name": "supremepath",
   "closed": false,
   "kind": 0,
   "parent": {
