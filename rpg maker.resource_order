@@ -23,6 +23,7 @@
     {"name":"shimmers","order":3,"path":"sounds/shimmers/shimmers.yy",},
     {"name":"flower3","order":19,"path":"sprites/flower3/flower3.yy",},
     {"name":"spr_face","order":8,"path":"sprites/spr_face/spr_face.yy",},
+    {"name":"testobject","order":19,"path":"objects/testobject/testobject.yy",},
     {"name":"flower2","order":18,"path":"sprites/flower2/flower2.yy",},
     {"name":"obj_talking_wall","order":10,"path":"objects/obj_talking_wall/obj_talking_wall.yy",},
     {"name":"spr_face2","order":9,"path":"sprites/spr_face2/spr_face2.yy",},
