@@ -19,6 +19,7 @@
     {"name":"obj_keeper","order":15,"path":"objects/obj_keeper/obj_keeper.yy",},
     {"name":"obj_jdsjfysdgo","order":9,"path":"objects/obj_jdsjfysdgo/obj_jdsjfysdgo.yy",},
     {"name":"spr_char_facingleft","order":3,"path":"sprites/spr_char_facingleft/spr_char_facingleft.yy",},
+    {"name":"testobject","order":1,"path":"objects/testobject/testobject.yy",},
     {"name":"Sprite22","order":21,"path":"sprites/Sprite22/Sprite22.yy",},
     {"name":"Sprite16","order":15,"path":"sprites/Sprite16/Sprite16.yy",},
     {"name":"sys_music","order":7,"path":"objects/sys_music/sys_music.yy",},
